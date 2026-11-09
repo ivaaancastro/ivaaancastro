@@ -28,7 +28,7 @@ Backend transaccional para retail con tienda en Next.js.
 `Java` `Spring Boot` `Next.js` `PostgreSQL`
 <!-- TODO: añadir enlace al repo y una frase de qué resuelve (pedidos, stock, pagos...) -->
 
-### Forma
+### [Forma](https://github.com/ivaaancastro/calculadora-ivan.git)
 Plataforma con integración de Strava y un coach con IA.
 `React` `Vite` `Supabase` `IA`
 <!-- TODO: añadir enlace al repo o demo -->

@@ -23,7 +23,7 @@ Me dedico al desarrollo **full-stack con Java y React**, con interés en **ecomm
 
 ## 🚀 Proyectos destacados
 
-### Nexus Commerce Core · _en desarrollo_
+### [Nexus Commerce Core](https://github.com/ivaaancastro/nexus-commerce-core.git)
 Backend transaccional para retail con tienda en Next.js.
 `Java` `Spring Boot` `Next.js` `PostgreSQL`
 <!-- TODO: añadir enlace al repo y una frase de qué resuelve (pedidos, stock, pagos...) -->
